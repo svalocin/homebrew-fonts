@@ -1,8 +1,8 @@
 cask "font-jetbrains-sarasa-mono-nerd-sc" do
-  version "2026.06.08-091748"
-  sha256 "7c565a2509685629dbf9b0f29ad2dfc8248d71d9cccf9f294aadf6affe1b0c05"
+  version "2026.06.08-092227"
+  sha256 "adf4630f389bd7e3fca97d85dba17127f8ea9cc0e99664a5435a9ef6c0e455c6"
 
-  url "https://github.com/svalocin/jetbrains-sarasa-mono-nerd/releases/download/2026.06.08-091748/JetBrainsSarasaMonoNerdSC-2026.06.08-091748.zip",
+  url "https://github.com/svalocin/jetbrains-sarasa-mono-nerd/releases/download/2026.06.08-092227/JetBrainsSarasaMonoNerdSC-2026.06.08-092227.zip",
       verified: "github.com/svalocin/jetbrains-sarasa-mono-nerd/"
   name "JetBrains Sarasa Mono Nerd SC"
   desc "JetBrains Mono Nerd Font merged with Sarasa Mono SC"
